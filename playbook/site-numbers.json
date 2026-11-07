@@ -1,0 +1,159 @@
+{
+ "generated": "2026-11-06",
+ "domain": "https://nickstrom5.github.io/massachusetts-eats",
+ "restaurants": 15519,
+ "places_incl_hidden": 15908,
+ "towns": 327,
+ "counties": 14,
+ "on_an_official_list": 701,
+ "hand_checked_on_a_guide": 75,
+ "serves_alcohol_state_license": 66,
+ "guide_clams": 20,
+ "guide_beef": 5,
+ "guide_northend": 19,
+ "guide_chinatown": 11,
+ "guide_diners": 8,
+ "guide_portuguese": 4,
+ "guide_taverns": 8,
+ "oldest": 7,
+ "honors": 45,
+ "michelin": {
+  "MICHELIN Recommended": 18,
+  "Bib Gourmand": 6,
+  "1 MICHELIN Star": 1
+ },
+ "james_beard": 26,
+ "americas_classics": 1,
+ "permits_updated": "2026-11-06",
+ "city_pages": {
+  "Boston": {
+   "restaurants": 1998,
+   "listed": 64,
+   "clams": 6,
+   "beef": 0,
+   "northend": 19,
+   "chinatown": 11,
+   "diners": 0,
+   "portuguese": 1,
+   "taverns": 3,
+   "hon": 25,
+   "oldest": 2
+  },
+  "Cambridge": {
+   "restaurants": 472,
+   "listed": 11,
+   "clams": 1,
+   "beef": 0,
+   "northend": 0,
+   "chinatown": 0,
+   "diners": 0,
+   "portuguese": 0,
+   "taverns": 0,
+   "hon": 10,
+   "oldest": 0
+  },
+  "Worcester": {
+   "restaurants": 485,
+   "listed": 7,
+   "clams": 0,
+   "beef": 0,
+   "northend": 0,
+   "chinatown": 0,
+   "diners": 7,
+   "portuguese": 0,
+   "taverns": 0,
+   "hon": 0,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Somerville": 2,
+  "Brookline": 2,
+  "Fall River": 3,
+  "New Bedford": 1,
+  "Provincetown": 2,
+  "Barnstable": 3,
+  "Dennis": 3,
+  "Salem": 1,
+  "Revere": 1,
+  "Quincy": 1,
+  "Lynn": 1,
+  "Gloucester": 1,
+  "Plymouth": 1,
+  "Falmouth": 1,
+  "Springfield": 0,
+  "Northampton": 0,
+  "Newton": 1
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 1226725,
+   "gzip": 238389
+  },
+  "data/detail-barnstable-county.json": {
+   "raw": 52136,
+   "gzip": 13264
+  },
+  "data/detail-berkshire-county.json": {
+   "raw": 20548,
+   "gzip": 5526
+  },
+  "data/detail-bristol-county.json": {
+   "raw": 72670,
+   "gzip": 17753
+  },
+  "data/detail-dukes-county.json": {
+   "raw": 7146,
+   "gzip": 1999
+  },
+  "data/detail-essex-county.json": {
+   "raw": 98945,
+   "gzip": 24640
+  },
+  "data/detail-franklin-county.json": {
+   "raw": 8843,
+   "gzip": 2497
+  },
+  "data/detail-hampden-county.json": {
+   "raw": 52990,
+   "gzip": 12646
+  },
+  "data/detail-hampshire-county.json": {
+   "raw": 22398,
+   "gzip": 5703
+  },
+  "data/detail-middlesex-county.json": {
+   "raw": 263012,
+   "gzip": 52422
+  },
+  "data/detail-nantucket-county.json": {
+   "raw": 4713,
+   "gzip": 1225
+  },
+  "data/detail-norfolk-county.json": {
+   "raw": 87052,
+   "gzip": 21602
+  },
+  "data/detail-plymouth-county.json": {
+   "raw": 65640,
+   "gzip": 15919
+  },
+  "data/detail-suffolk-county.json": {
+   "raw": 126710,
+   "gzip": 32376
+  },
+  "data/detail-worcester-county.json": {
+   "raw": 102278,
+   "gzip": 24678
+  },
+  "data/ids.json": {
+   "raw": 201775,
+   "gzip": 117043
+  },
+  "data/ma_shapes.json": {
+   "raw": 43017,
+   "gzip": 8053
+  }
+ }
+}
