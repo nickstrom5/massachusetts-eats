@@ -1,0 +1,58 @@
+{
+ "schema": 2,
+ "version": "2026-11-06.1",
+ "records_through": "2026-11-06",
+ "min_app_build": 1,
+ "files": {
+  "detail-cape-cod-the-islands": {
+   "path": "detail-cape-cod-the-islands-5b6ce3fdf928.json",
+   "sha256": "5b6ce3fdf92850d38193d77a58238cf6161c326f00ebd3018cc2611e0a18eb90",
+   "bytes": 72107
+  },
+  "detail-central-massachusetts": {
+   "path": "detail-central-massachusetts-db212edd8a20.json",
+   "sha256": "db212edd8a202e3786cf8cecc3f54d40811f0551683762e22bbee39a21937b21",
+   "bytes": 115341
+  },
+  "detail-greater-boston": {
+   "path": "detail-greater-boston-eba7f9b3c8f2.json",
+   "sha256": "eba7f9b3c8f2d6e92df773dcfb353305cf2bbc652828b5090d65093b495468a2",
+   "bytes": 243860
+  },
+  "detail-middlesex-the-merrimack-valley": {
+   "path": "detail-middlesex-the-merrimack-valley-028907ef43e0.json",
+   "sha256": "028907ef43e04ef54d7fb12d5e2c165fef1c634fdbbad114768e1c1a9f1bc6bf",
+   "bytes": 339882
+  },
+  "detail-north-shore": {
+   "path": "detail-north-shore-d419d62af401.json",
+   "sha256": "d419d62af4017ca063d2ac306595e137f71051ca9b916455ac1900c2e0e1ad77",
+   "bytes": 113855
+  },
+  "detail-south-shore-south-coast": {
+   "path": "detail-south-shore-south-coast-670d9ddae5b9.json",
+   "sha256": "670d9ddae5b9e3d474c343998e16d821443045357d682988ab2402278f2b6965",
+   "bytes": 157899
+  },
+  "detail-western-massachusetts": {
+   "path": "detail-western-massachusetts-1cd00f208f32.json",
+   "sha256": "1cd00f208f32eec9e3be7ba85aee6c2ea9b1b861215204498f8efd5b72babd8b",
+   "bytes": 119644
+  },
+  "places": {
+   "path": "places-4b08d93a8685.json",
+   "sha256": "4b08d93a868588e59796eecc060b2915dd2bea3db0488adb27d673c22911a974",
+   "bytes": 2600302
+  },
+  "state": {
+   "path": "state-57efd4e14efe.json",
+   "sha256": "57efd4e14efea4a24e3395a37431fa3ebe0174275af1feeb91f6740f77ae652d",
+   "bytes": 10105
+  }
+ },
+ "counts": {
+  "places": 15908,
+  "restaurants": 15519,
+  "bytes": 3772995
+ }
+}
